@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2 {
+    text-align: center;
+    clear: both
+    }
+p {
+    margin-top: 0.51em;
+    text-align: justify;
+    margin-bottom: 0.49em
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
+hr.chap {
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%
+    }
+hr.tb {
+    width: 45%;
+    margin-left: 27.5%;
+    margin-right: 27.5%
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+div.titlepage {
+    text-align: center;
+    page-break-before: always;
+    page-break-after: always
+    }
+div.titlepage p {
+    text-align: center;
+    text-indent: 0;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-top: 3em
+    }</style>
+
+</head>
+<body>
+        </div>
+</section><div style="margin-top:2em; margin-bottom:4em"></div>
+<div class="titlepage">
+<h1>Touch the SKY</h1>
+<h2>By ALFRED COPPEL</h2>
+<p>[Transcriber's Note: This etext was produced from<br>
+Startling Stories Summer 1955.<br>
+Extensive research did not uncover any evidence that<br>
+the U.S. copyright on this publication was renewed.]</p>
+</div>
+<hr class="chap">
+<div class="figcenter">
+</div>
+<hr class="chap">
+<p>The sign said: RIDE THE ROCKET! TWICE AROUND THE UNIVERSE FOR 25¢!
+Which was cheap enough, Pete Moore thought. Cheap enough at twice the
+fare.</p>
+<p>Glory giggled and pulled at his arm. "Let's ride, Pete. Let's see what
+you're in for."</p>
+<p>He smiled down at her thinly, because it wasn't really anything for
+her to giggle about, but that was Glory for you. She was young enough,
+gay enough, to be able to make a joke of it, and that was good and he
+shouldn't spoil it. Not many other wives would feel like that. Not many
+other wives would want to spend his last night home on the midway, for
+that matter. But then again, that was Glory.</p>
+<p>He listened to the tinny carousel music and the babble of the crowd,
+the laughter and the mingled drone of barkers. He smelled the tang
+of roasting popcorn and the hot-doggy stink of the lunchcounters. He
+looked at the ferris wheel and the crazy swoop of lights that was the
+scenic railway and the people crowding along the boardwalk with kewpie
+dolls and spun-sugar candy cones in their hands.</p>
+<p>Question! his mind demanded: Is this reality?</p>
+<p>Answer: Of course. What else?</p>
+<p>I've been too long away from cities, he thought. Too many silent nights
+in the desert, too many high flights in cold blue air. Too long away
+from Glory?</p>
+<p>He felt guilty and depressed at the thought. It wasn't the way for a
+man to feel. Not before the great adventure. Still, he couldn't avoid
+an almost homesick longing for the deep darkness of the desert and the
+silver ship waiting there.</p>
+<p>Soon, he thought. Three days; three days and a few hours.</p>
+<p>He felt a tug at his arm.</p>
+<p>"Pete!" Glory was smiling up at him, half-aggrieved, half-loving. He
+looked again at the garishly painted sign.</p>
+<p>RIDE THE ROCKET!</p>
+<p>"Let's ride it, Pete," Glory said. "Let's!"</p>
+<p>There was something in her smile that touched him. Pride? That, and
+love and youth. To her, he was <i>the</i> man. For her, and for all the
+world. The one who was going to reach out beyond the far horizon and
+touch the sky and bring back a pot of gold for everyone.</p>
+<p>She thinks no one else could do it, he told himself. That's love. There
+were a dozen qualified men, and yet—</p>
+<p>The moonshot was his.</p>
+<p>RIDE THE ROCKET!</p>
+<p>"All right, baby," he said.</p>
+<p>As he paid their fare for the rocket-ride, Pete found himself looking
+at the girl in the booth. Tired eyes and stringy hennaed hair. No
+dreams there. He had an impulse to tell her that soon he'd really be
+riding the rocket and that from then on things would be different.</p>
+<p>New frontiers and new dreams for everybody. Up and up.</p>
+<hr class="tb">
+<p>The girl's eyes met his, and it was Pete who looked away. You don't
+talk frontiers to pale, worn faces and eyes bleached of color by tinny
+music and stinks and men.</p>
+<p>They walked up a wooden ramp to where a little metal bullet on rails
+waited. The paint, once bright, was all scuffy. A sour-faced attendant
+in grayish coveralls stood by a large lever.</p>
+<p>"Fasten ya seat belts, Mac."</p>
+<p>"We're off to the sky," Glory said.</p>
+<p>Somewhere old machinery wheezed.</p>
+<p>The little bullet began to move along the rails toward a hinged
+trap-door in a wall painted to look like clouds.</p>
+<p>"Hold my hand, Pete," Glory said breathlessly.</p>
+<p>Glory, Glory, he thought. Young and simple and in love with life. Any
+kind of life. Real or unreal. Glory with a bubbling laughter, a zest, a
+faith. Maybe it was really for her that he was taking the big flight.
+If only he could bring back the pot of gold. If only he could tell
+weary Man that the sky was all his. He thought of the strained, unhappy
+faces in the streets, the fear-filled eyes. If he could return and say
+to them: "Here's your new frontier!" Yes, by God, it was worth the
+work, and the risk. Glory was right. It was something to be proud of.</p>
+<p>I'm going to the moon!</p>
+<p>Me, Pete Moore, to the <i>moon</i>!</p>
+<p>"There it is, Pete!"</p>
+<p>They had bumped through the painted door into a musty semi-darkness.
+The walls were perforated with holes for stars, and from somewhere
+below a huge yellowish moon was rising.</p>
+<p>Off a short way to the right was a glowing papier-mâché globe painted
+with broad bands slightly askew, and behind that was another with rings.</p>
+<p>A loudspeaker whistled tinnily and overhead, on wire runners, an
+electric globe crossed the dim chamber, pieces of yellow and white
+crepe paper fluttering feebly behind.</p>
+<p>"Oh, Pete! A comet?"</p>
+<p>"Sure enough, Glory," he said.</p>
+<p>The rumbling little bullet skirted the walls and Pete could see the
+electric lights behind the holes. Stars, he thought sardonically. Close
+enough to touch. Lucky us.</p>
+<p>"There's Mars, Pete," Glory said, squeezing his hand.</p>
+<p>I'm getting disenchanted, he thought.</p>
+<p>A red ball, all painted with canals and white polar caps far too big.</p>
+<p>They should have had a technical advisor on this project, he thought.
+Paging Palomar.</p>
+<p>The bullet began its second circuit of the papier-mâché universe,
+and the moon was high now, projected on the wall by some kind of
+lantern-slide lamp. There was a face on the moon.</p>
+<p>It began then—just a tiny bead of fear way down inside his belly. But
+it grew. He felt suffocated, claustrophobic, oppressed by fakery and
+cheapness.</p>
+<p>Glory was laughing with delight. "Oh, it's wonderful!"</p>
+<p>Shut up! Pete thought savagely. Shut up, <i>shut up</i>!</p>
+<p>With an effort, he got hold of himself.</p>
+<p>I've been working too hard. I'm jittery thinking about the moonshot,
+and all this seedy burlesque just irritates me. There's nothing to get
+heated up about. Calm down.</p>
+<p>But why am I suddenly afraid?</p>
+<p>He looked again at the ridiculous moon with its smirking face. He saw
+that plaster had fallen from the wall in places, peeling away, leaving
+the bare hexagons of wire and laths.</p>
+<p>My God, he thought. A chickenwire sky.</p>
+<p>He thought again of the girl in the ticket booth, and of the tired,
+frightened people all laughing too much and shoving and running outside.</p>
+<p>The bullet started down at last, toward the hinged door. On this side
+it was painted to look like Earth, with a distorted map of North
+America. All wrong, somehow.</p>
+<p>Pete felt ill. It was as though someone were making ill-tempered fun
+of the dreams and the tall silver ship waiting out on the desert.
+Cheapening it. Laughing nastily.</p>
+<p>The little bullet bumped through the seedy, scruffy Earth and out
+into the night of the midway, out into the crowd-sounds and music and
+hot-doggy smells.</p>
+<p>"It was fun, Pete," Glory said.</p>
+<p>He helped her out onto the rickety platform. He had the insane notion
+that the girl in the ticket booth and the lounging attendant were
+laughing at him.</p>
+<p>"It sure was, honey," he said wearily, still feeling the illogical fear
+of he-knew-not-what inside himself. "Real fun."</p>
+<p>Glory looked up at him, eyes alight and almost feverishly gay. "I did
+what you are going to do. I touched the sky!"</p>
+<hr class="tb">
+<p>New frontiers. New lands in the sky. New hope.</p>
+<p>It was quiet. The jet was still and no sound was anywhere in the ship.
+Now a soft tick from the timer. A whisper from the questing radarscope.
+And again, the stillness.</p>
+<p>We've done it, Pete thought. We've really done it. The hard part is
+over.</p>
+<p>Ride the rocket!</p>
+<p>He remembered the pain of the takeoff and the absolute panic that had
+welled up in him when the irrevocability of his action came home. He
+remembered riding a tail of red fire up out of the hot desert air of
+New Mexico into the still blue, and then the silence and the almost
+unnerving thrill of the realization that the moonshot was going to
+succeed.</p>
+<p>The radio hissed at him with the voice of the desert base half around
+the world.</p>
+<p>"Hello moonshot. This is Base. All's okay. Stage one landed in the
+Gulf. Stage two just reported floating off the Azores. Good show."</p>
+<p>Pete lifted himself from the acceleration couch and felt a moment of
+nausea and panic as he floated toward the ceiling of the tiny cell.
+Free flight. He steadied himself and checked the flow of telemetered
+information binding the ship to the glowing curve far below. All okay.
+Except that—</p>
+<p>Except that you're still afraid, he told himself. Not just the normal
+fear-of-falling-afraid that the psychs told you about. Afraid like
+before—in that silly damn carnival ride thing.</p>
+<p>Afraid of the dark?</p>
+<p>No, not quite that. More a closed in, cheated feeling.</p>
+<p>Premonition? Nonsense.</p>
+<p>He clung to the radarscope, trembling. With every rushing mile upward,
+outward, his fear was growing. It wasn't right, it didn't make sense.
+But he felt as though he were rushing straight at a brick wall, head
+down, eyes closed.</p>
+<p>He lit the telescreens.</p>
+<p>The stars look funny, he thought uneasily.</p>
+<p>The timer ticked. The radar whispered, searching. Time passed and his
+fear grew thicker, less reasonable.</p>
+<p>His fingers dug hard at the metal of the instrument panel as the night
+slipped by outside the hull. The ship's orbital ellipse, Kepler's
+contribution to the new frontier, was established.</p>
+<p>Pete thought, something's wrong. Very wrong. The stars look queer.</p>
+<p>The constellations in the telescreens were distorting, and there
+was something ahead of the ship where there should be nothing but
+emptiness. It showed in the screen for just an instant and was lost. A
+ringed sphere.</p>
+<p>I must be dreaming, Pete thought. But then, what is reality? That
+sphere was Saturn. And it was a hundred yards across.</p>
+<p>Reality? <i>Insanity!</i></p>
+<p>I'd better check with Base, Pete thought, and tell them I've gone off
+my rocker, that I'm suffering hallucinations.</p>
+<p>But he did nothing except cling shaking to the panel, watching the
+distorted stars in the screen. They were blurring now, streaks of light
+that seemed to be very close to the ship.</p>
+<hr class="tb">
+<p>And then came the moon. It came and went very quickly, pocked and
+scarred and with only one face. And <i>small</i>. Very small and very close.</p>
+<p>Pete felt closed in, suffocated. The radar alarm was screaming at him
+that something was near, too near.</p>
+<p>He clamped down savagely on himself. There was an explanation
+somewhere. He had to find it! He had to think!</p>
+<p>Item. The stars. Distorted. Blurred.</p>
+<p>Item. Saturn. A hundred yards across.</p>
+<p>Item. A tiny replica of the moon, like a pimple on the inside of an egg.</p>
+<p>Replica? No. <i>The</i> moon. The only moon. Reality.</p>
+<p>Hypothesis. Say that space is not as men imagined it. Say that it is an
+illusion, without lightyears, without great suns, without huge planets.
+Say for the sake of argument that it is a shell with holes in it, and
+light outside, and the Sun itself an illusion of heat and power, and—</p>
+<p>Say that this hollow shell is man's new frontier; a fraud, a toy for
+things outside—</p>
+<p>The alarm screamed at him. The ship was plunging toward the blurry
+light of the stars.</p>
+<p>With an icy hand on his heart, Pete Moore turned to look at the
+telescreen behind him. A misty blue ball swam in musty darkness. The
+oceans gleamed in the light of the sun, cloud masses whitened it, the
+wrinkled face of the land looked unreal—</p>
+<p>He began to laugh. Tears streaked his cheeks as he pounded his bloody
+fists against the instrument panel in time to the clanging of the alarm.</p>
+<p>The Earth, the Earth—</p>
+<p>It <i>did</i> rather look like papier-mâché.</p>
+<p>He touched the sky.</p>
+<div style="display:block; margin-top:4em"></div><section class="pg-boilerplate pgheader" id="pg-footer" lang="en">
+        <div style="text-align:center">
+        </div>
+
+
+</section></body>
+</html>
